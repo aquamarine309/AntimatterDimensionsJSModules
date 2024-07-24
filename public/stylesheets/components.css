@@ -1414,7 +1414,7 @@ AutobuyerBox components will always render in page order regardless of internal 
   cursor: default;
 }
 
-.o-tab-btn[data-v-calssic-tab-button] {
+.o-tab-btn[data-v-classic-tab-button] {
   position: relative;
   height: 3.1rem;
   vertical-align: middle;
@@ -1422,12 +1422,12 @@ AutobuyerBox components will always render in page order regardless of internal 
   margin-bottom: 0.7rem;
 }
 
-.o-tab-btn--active[data-v-calssic-tab-button] {
+.o-tab-btn--active[data-v-classic-tab-button] {
   height: 3.1rem;
   border-bottom-width: 0.5rem;
 }
 
-.s-base--metro .o-tab-btn--active[data-v-calssic-tab-button] {
+.s-base--metro .o-tab-btn--active[data-v-classic-tab-button] {
   border-bottom-width: 0.5rem;
 }
 
